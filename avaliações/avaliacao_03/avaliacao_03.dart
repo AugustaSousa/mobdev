@@ -23,7 +23,7 @@ void main(){
     print("7) Qual o valor de z após a execução da expressão z ?? 10?");
     int? z;
     print(z??10); // z continua sendo nulo
-    print("Valor de z após execução: $z");
+    print("Valor de z após execução: $z"); //null
 
     print("8) Qual o resultado da expressão 2 + 2 == 4 && 3 + 3 == 6?");
     print(2 + 2 == 4 && 3 + 3 == 6); //true
@@ -34,6 +34,6 @@ void main(){
     print("10) Qual o valor de a após a execução da expressão a ??= 10?");
     int? a;
     print(a??= 10); //se a for nulo, a passa a ser definido como igual a 10
-    print("Valor de a após execução: $a");
+    print("Valor de a após execução: $a"); //10
 
 }
