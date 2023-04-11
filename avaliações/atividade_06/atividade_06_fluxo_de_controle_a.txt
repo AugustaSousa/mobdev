@@ -1,0 +1,31 @@
+Prova de Fluxo de Controle em Dart
+
+01) Qual é a sintaxe básica da instrução if em Dart?
+a) if (condição) { }
+
+02) Qual é a função da instrução else em Dart?
+b) Executa o bloco de código caso a condição do if seja falsa.
+
+03) Qual é a função da instrução switch em Dart?
+b) Testar várias condições diferentes.
+
+04) Como se define um case dentro de uma estrutura switch em Dart?
+a) case 1:
+
+05) Qual é a sintaxe básica da instrução for em Dart?
+a) for (inicialização; condição; incremento) { }
+
+06) Qual é a sintaxe básica da instrução while em Dart? A
+a) while (condição) { }
+
+07) Qual é a função da instrução do-while em Dart?
+b) Executar um bloco de código pelo menos uma vez, e então repeti-lo enquanto uma condição for verdadeira.
+
+08) Qual é a função da instrução break em Dart?
+d) Encerrar um loop ou switch.
+
+09) Qual é a função da instrução continue em Dart?
+b) Ignorar o resto do bloco de código atual e continuar a execução no próximo bloco.
+
+10) O que é uma exceção em Dart?
+b) Um erro de tempo de execução.
